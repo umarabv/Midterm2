@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Midterm2</string>
+    <string name="main_word">Welcome to Lafyuu</string>
+    <string name="secon_word">Sing in to continue</string>
+    <string name="password">password</string>
+    <string name="email">Your Email</string>
+    <string name="sing">Sing in</string>
+    <string name="Or">Or</string>
+    <string name="facebook">Login with facebook</string>
+    <string name="google">Login with Google</string>
+    <string name="forgot">Forgot password</string>
+    <string name="have">Dont have an account</string>
+    <string name="Register">Register</string>
+    <string name="logo">Logo</string>
+    <string name="passw">password</string>
+    <string name="google12">google</string>
+    <string name="facebook2">facebook</string>
+
+
+</resources>
